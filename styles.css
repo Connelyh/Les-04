@@ -1,0 +1,41 @@
+body {  
+    background-color: #f6eee3;
+    font-family: Poppins;
+}
+
+#begin {
+    letter-spacing: 30px;
+    line-height: 200%;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 100;
+    font-size: 90px;
+    color: #f0353c
+}
+
+#foto {
+    position: absolute;
+    top: 0px;
+    left: 919px;
+}
+
+#foto2 {
+position: absolute;
+top: 40px;
+left: 835px
+   }
+
+
+#uitleg {
+    margin-left: 100;
+    width: 650px;
+
+
+}
+
+#footer {
+    margin-left: 100;
+    margin-top: 40px;
+
+
+}
